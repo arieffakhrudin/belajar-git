@@ -9,5 +9,7 @@
     <p>Kontak</p>
 
     <a href="index.php"> index</a>
+     
+     <p>Rakyat Sepakat Untuk Perubahan</p>
 </body>
 </html>
