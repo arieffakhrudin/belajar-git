@@ -46,7 +46,7 @@
     <img class="profile-img" src="rplb.jpeg" alt="Profil Saya">
     <h1>XII RPL B</h1>
     <p>kelas 12 RPL B .</p>
-    <p>Lokasi: SMKN ! Jenangan Ponorogo</p>
+    <p>Lokasi: SMKN ! Jenangan </p>
     <p>Telepon: 087814006899</p>
     <p>Instagram: <a href="https://www.instagram.com/otakrusak.rplb">otakrusak.rplb</a></p>
   </div>
