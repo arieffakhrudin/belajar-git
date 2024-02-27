@@ -6,6 +6,8 @@
     <title>kontak</title>
 </head>
 <body>
-    Kontak
+    <p>Kontak</p>
+
+    <a href="index.php"> index</a>
 </body>
 </html>
