@@ -44,7 +44,7 @@
 <body>
   <div class="container">
     <img class="profile-img" src="rplb.jpeg" alt="Profil Saya">
-    <h1>XII RPL B</h1>
+    <h1>KELVIN</h1>
     <p>kelas 12 RPL B .</p>
     <p>Lokasi: SMKN ! Jenangan </p>
     <p>Telepon: 087814006899</p>
